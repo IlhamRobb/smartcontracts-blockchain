@@ -1,4 +1,4 @@
-#Smart Contracts Blockchain
+# Smart Contracts Blockchain
 
 Proyek ini adalah implementasi sederhana dari smart contracts di dalam blockchain. Digunakan untuk memahami konsep dasar dari kontrak pintar dan teknologi blockchain.
 pada proyek ini dimana dapat membantu proses transfer mata uang kripto dengan mudah
